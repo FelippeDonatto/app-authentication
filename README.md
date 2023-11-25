@@ -18,9 +18,9 @@
 
 ## Links
 
-- [Demo](link_para_demo){:target="_blank"}
-- [Vídeo YouTube](link_para_documentacao){:target="_blank"}
-- [Figma template](link_para_contribuicoes){:target="_blank"}
+- [Demo](https://authentication-next-alpha.vercel.app/)
+- [Vídeo YouTube](link_para_documentacao)
+- [Figma template](https://www.figma.com/community/file/1310298649192318902/app-authentication)
 
 
 <h2 align="center">Libs utilizadas</h2>  
@@ -32,7 +32,7 @@ npm i lucide-react
 ```
 
 #### Site da lib 
-- [Site da bibloioteca](https://lucide.dev/){:target="_blank"}
+- [Site da bibloioteca](https://lucide.dev/)
 
 #### Prettier Plugin Tailwind
 
@@ -56,5 +56,5 @@ module.exports = {
 ```
 
 #### Site da lib 
-- [Site da bibloioteca](https://www.npmjs.com/package/prettier-plugin-tailwindcss){:target="_blank"}
+- [Site da bibloioteca](https://www.npmjs.com/package/prettier-plugin-tailwindcss)
 
